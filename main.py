@@ -14,7 +14,7 @@ while running:
             running = False
 
     # Fill the screen with a color (RGB)
-    my_screen.fill((230, 220, 240))  # Light gray background
+    my_screen.fill((230, 220, 240))  # Later to be changed to a background image
 
     # Update the display
     pygame.display.update()
